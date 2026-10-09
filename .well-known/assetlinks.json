@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.jaozzim123.krapka",
+      "sha256_cert_fingerprints": [
+        "TROQUE_PELA_IMPRESSAO_DIGITAL_DA_SUA_CHAVE",
+        "TROQUE_PELA_IMPRESSAO_DIGITAL_DA_CHAVE_DO_GOOGLE_PLAY"
+      ]
+    }
+  }
+]
