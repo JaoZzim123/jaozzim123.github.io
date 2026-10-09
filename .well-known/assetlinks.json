@@ -1,13 +1,8 @@
-[
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "io.github.jaozzim123.krapka",
-      "sha256_cert_fingerprints": [
-        "TROQUE_PELA_IMPRESSAO_DIGITAL_DA_SUA_CHAVE",
-        "TROQUE_PELA_IMPRESSAO_DIGITAL_DA_CHAVE_DO_GOOGLE_PLAY"
-      ]
-    }
-  }
-]
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.jaozzim123.krapka",
+        "sha256_cert_fingerprints": ["60:9D:93:92:F7:C4:DD:E1:BC:4D:D9:66:5F:4C:FF:B9:FB:F2:A2:76:5D:B2:32:8F:F0:C9:60:D9:E7:FA:8F:2B"]
+      }
+    }]
